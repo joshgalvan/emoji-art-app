@@ -19,4 +19,4 @@ This app takes advantage of:
 - SwiftUI & UIKit interoperability
 - and more!
 
-As this is the final app worked on in the course... onto my own app, Incremental. Incremental is a task tracking app which will be on my GitHub soon!
+As this is the final app worked on in the course... onto my own app, Incremental. Incremental is a unique task tracking app which will be on my GitHub soon!
