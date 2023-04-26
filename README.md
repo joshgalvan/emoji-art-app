@@ -8,6 +8,7 @@ This app takes advantage of:
 - Combine
 - DocumentGroup
 - Custom document types
+- UserDefaults
 - Multithreading
 - List
 - Form
