@@ -14,7 +14,6 @@ struct EmojiArtApp: App {
     var body: some Scene {
         DocumentGroup(newDocument: { EmojiArtDocument() }) { config in
             EmojiArtDocumentView(document: config.document)
-                // Share paletteStore amongst all documents.
                 .environmentObject(paletteStore)
             #if os(iOS)
                 .navigationBarTitleDisplayMode(.inline)
