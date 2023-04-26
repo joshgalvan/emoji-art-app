@@ -12,8 +12,8 @@ This app takes advantage of:
 - Multithreading
 - List
 - Form
-- Modality
 - NavigationStack
+- Modality
 - @EnvironmentObject
 - Custom gestures
 - SwiftUI & UIKit interoperability
